@@ -1,0 +1,16 @@
+body{
+       margin: 0;
+       padding: 0;
+       background-color: #f9fafa;;
+}
+.b1 {
+       text-align: center;
+       
+       font-style: italic;
+       
+}
+.crd-ho:hover{
+                  background: #f0dde2;
+}
+
+
